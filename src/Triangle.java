@@ -1,3 +1,8 @@
+// Created By Aaliyah Creech
+// Created on December 16, 2022
+// CSIS 3701: Programming and Problem-Solving
+// YSU 2022
+
 import java.util.ArrayList;
 
 class Triangle extends Polygon {
